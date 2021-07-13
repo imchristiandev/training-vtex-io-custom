@@ -1,0 +1,9 @@
+{
+  "id-wrapper": {
+    "component": "IdWrapperApp",
+    "composition": "children"
+  },
+  "product-after-buy": {
+    "component": "ProductAfterBuy"
+  }
+}
